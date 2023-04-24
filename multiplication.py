@@ -1,4 +1,4 @@
 a=34
 b=76
 c=a*b
-print("Multiplication is:-",c)
+print(f"Multiplication is of:-",c)
