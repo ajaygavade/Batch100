@@ -15,3 +15,11 @@ a = 10
 b = 20
 c = a + b
 print("Addition is ",c)
+
+# code for division
+
+a = 10
+b = 20
+c = a/b
+
+print(f"Division is ", c)
